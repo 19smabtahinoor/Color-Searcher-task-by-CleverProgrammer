@@ -32,7 +32,11 @@ export default function App() {
           .map((color) => {
             return (
               <>
-                <div className="each_color" style={{ backgroundColor: color }}>
+                <div
+                  className="each_color"
+                  style={{ backgroundColor: color }}
+                  key={Math.random()}
+                >
                   <h1>{color}</h1>
                 </div>
               </>
