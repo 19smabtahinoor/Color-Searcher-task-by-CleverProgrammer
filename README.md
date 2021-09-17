@@ -1,6 +1,6 @@
 # Color-Searcher-task-by-CleverProgrammer
 
-## Live Demo: [Live Site Link](https://react-n4wosw.stackblitz.io/)
+## Live Demo: [Live Site Link](https://color-searcher-task-by-cleverprogrammer.stackblitz.io)
 
 ## 💻 Developed By
 
